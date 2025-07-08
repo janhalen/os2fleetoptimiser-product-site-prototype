@@ -26,6 +26,7 @@ remote_theme: a-chacon/awesome-jekyll-theme
 # Polyglot (i18n) configuration
 languages: ["en", "da"]
 default_lang: "da"
+serve_default_lang: true
 exclude_from_localization: ["javascript", "images", "css", "public"]
 parallel_localization: true
 
