@@ -1,0 +1,13 @@
+strings:
+  home:
+    contact_me: "Kontakt:"
+    blog_title: "Nyheder: Seneste nyheder"
+    see_more_posts: "Se flere nyheder →"
+    projects_title: "Seneste cases"
+    see_more_projects: "Se flere cases →"
+  footer:
+    title: "Kontakt:"
+    description: "Kontaktlinks"
+    pages: "Sider"
+  blog:
+    read_more: "Læs mere →"
