@@ -7,5 +7,3 @@ lang: da
 permalink: /
 footer: true
 ---
-
-Velkommen til Os2FleetOptimiser.
