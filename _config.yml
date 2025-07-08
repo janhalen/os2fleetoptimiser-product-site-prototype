@@ -1,0 +1,38 @@
+title: Os2FleetOptimiser
+logo: /assets/images/os2fleetoptimiser_Logo.svg
+
+# Enable typewriter effect on homepage
+typewriter_effect: true
+
+# Collections
+collections:
+  projects:
+    output: true
+
+# Contact section
+contact_channels_section: true
+contact_channels:
+  github: "https://github.com/os2fleetoptimiser"
+
+# Plugins
+plugins:
+  - jekyll-archives
+  - jekyll-seo-tag
+  - jekyll-polyglot
+  - jekyll-remote-theme
+
+# Remote theme
+remote_theme: a-chacon/awesome-jekyll-theme
+# Polyglot (i18n) configuration
+languages: ["en", "da"]
+default_lang: "da"
+exclude_from_localization: ["javascript", "images", "css", "public"]
+parallel_localization: true
+
+# Archives (for blog categories)
+jekyll-archives:
+  enabled:
+    - categories
+  layout: blog
+  permalinks:
+    category: "/category/:name/"
